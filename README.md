@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/6844a665846bd2eeed3e3240?variant=dark)](https://roadmap.sh)
 <!--
 **etorhub/etorhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
